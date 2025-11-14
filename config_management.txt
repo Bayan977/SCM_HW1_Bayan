@@ -1,0 +1,1 @@
+Software configuration management (SCM) plays a vital role in coordinating software engineering teams and ensuring integrity of the software product. software configuration management provides the control and visibility needed to manage change. Formal SCM processes reduce defects and rework by avoiding unauthorized changes that introduce inconsistencies.
